@@ -2,7 +2,7 @@
 
 **`dev backend`**
 
-Me chamo Ricardo, tenho 19 anos e sou de SP. Atualmente, estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
+Me chamo Ricardo, tenho 20 anos e sou de SP. Atualmente, estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
 
 ### 🤖 Linguagens e Tecnologias
 
