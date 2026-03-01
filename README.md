@@ -2,7 +2,7 @@
 
 **`dev backend`**
 
-Me chamo Ricardo, tenho 20 anos e sou de SP. Atualmente, estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
+Me chamo Ricardo, sou de SP e atualmente estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -56,6 +56,11 @@ Me chamo Ricardo, tenho 20 anos e sou de SP. Atualmente, estou cursando Engenhar
 />
 <br/>
 <br/>
+
+Currently working on:
+• WinBooster V3 (Windows optimization toolkit)
+• Project Prometheus (Adaptive AI Learning Platform)
+• Security and system automation tools
 
 ### 📊 Estatísticas
 
