@@ -5,7 +5,7 @@
 Information Technology Management student from São Paulo, Brazil.
 Passionate about systems, backend development and cybersecurity.
 
-### 🤖 Programming Languages | Tools & Platforms | Databases
+### 🤖 Tech Stack
 
 <img 
     align="left" 
@@ -64,6 +64,6 @@ Passionate about systems, backend development and cybersecurity.
 
 • Project Prometheus (Adaptive AI Learning Platform)
 
-• Security and system automation tools
+• Security research and system automation tools
 
 📫 **how to find me:** [LinkedIn](https://www.linkedin.com/in/ricardogarcia-dev/) | ricardo.n.garcia.pro@gmail.com
