@@ -1,8 +1,9 @@
 # 👨‍💻 Rick
 
-**`dev backend`** **`Cyber security enthusiast`**
+**`dev backend`** **`Cybersecurity enthusiast`**
 
-Me chamo Ricardo, sou de SP e atualmente estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
+Information Technology Management student from São Paulo, Brazil.
+Passionate about systems, backend development and cybersecurity.
 
 ### 🤖 Programming Languages | Tools & Platforms | Databases
 
