@@ -4,7 +4,7 @@
 
 Me chamo Ricardo, sou de SP e atualmente estou cursando Engenharia de computação. Sou apaixonado por tecnologia e Cyber Segurança.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages | Tools & Platforms | Databases
 
 <img 
     align="left" 
@@ -32,14 +32,6 @@ Me chamo Ricardo, sou de SP e atualmente estou cursando Engenharia de computaç�
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -54,30 +46,23 @@ Me chamo Ricardo, sou de SP e atualmente estou cursando Engenharia de computaç�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" 
+/>
 <br/>
 <br/>
 
-Currently working on:
+**Currently working on:**
+
 • WinBooster V3 (Windows optimization toolkit)
+
 • Project Prometheus (Adaptive AI Learning Platform)
+
 • Security and system automation tools
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RickStt1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickStt1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+📫 **how to find me:** [LinkedIn](https://www.linkedin.com/in/ricardogarcia-dev/) | ricardo.n.garcia.pro@gmail.com
