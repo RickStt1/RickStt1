@@ -1,10 +1,11 @@
-
-
 <br/>
 
 ---
 
-**Backend Developer**
+<div align="center">
+
+# **Ricardo Garcia**
+### Backend Developer
 
 > *"What we know is a drop. What we don't know is an ocean."*
 
@@ -15,8 +16,10 @@ I also have experience with **TypeScript**, **PHP**, **MySQL**, **Linux**, **Doc
 ```
 ◈  Backend / Cybersecurity
 ◈  São Paulo, Brazil 🇧🇷
-◈  Open Source & Security Research
+◈  Intern — building this profile as my portfolio
 ```
+
+</div>
 
 ---
 
@@ -43,29 +46,45 @@ I also have experience with **TypeScript**, **PHP**, **MySQL**, **Linux**, **Doc
 
 <div align="center">
 
-###  WinBooster V3
+### 🛡️ [WinBooster V3](https://github.com/RickStt1/WinBooster-V3)
 *Windows optimization toolkit with security hardening*
 
-###  Project Prometheus
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=d4af37)
+
+---
+
+### 🔮 [Project Prometheus](https://github.com/RickStt1/Prometheus)
 *Adaptive AI Learning Platform for behavioral analysis*
 
-###  LoL AI Build
-*soon available here*
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=d4af37)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=d4af37)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=d4af37)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=d4af37)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=d4af37)
+
+---
+
+### ⚔️ LoL AI Build
+*Build recommendation tool — 🚧 in development (working on making it responsive for web and mobile)*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=d4af37)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=d4af37)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=d4af37)
+![Shell](https://img.shields.io/badge/Shell-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=d4af37)
 
 </div>
 
 ---
 
-## Professional Skills
+## Currently Learning
 
 <div align="center">
 
-|   **CYBERSECURITY** |   **BACKEND** |   **AUTOMATION** |   **SYSTEMS** |
-|:---:|:---:|:---:|:---:|
-| Penetration Testing | API Design | Infrastructure | Network Arch. |
-| Vulnerability Analysis | Database Optimization | DevOps | Reverse Eng. |
-| Secure Coding | System Architecture | Scripting | Optimization |
-| Security Hardening | Performance Tuning | Tool Development | Analysis |
+|   **CYBERSECURITY** |   **CLOUD & DEVOPS** |
+|:---:|:---:|
+| practicing on TryHackMe | Docker fundamentals |
+| Secure coding practices | CI/CD basics |
+| Reading up on network security | Cloud infrastructure concepts |
 
 </div>
 
@@ -76,7 +95,6 @@ I also have experience with **TypeScript**, **PHP**, **MySQL**, **Linux**, **Doc
 *"There is no path. Beyond the scope of light, beyond the reach of dark... what could possibly await us? And yet, we seek it, insatiably..."*
 
 </div>
-
 
 <!-- CONTACT -->
 <div align="center">
