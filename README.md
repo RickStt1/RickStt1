@@ -9,10 +9,6 @@
 
 > *"What we know is a drop. What we don't know is an ocean."*
 
-Deepening my studies in **Python**, **JavaScript**, **C** and **backend development**, applying this knowledge to real personal projects — security tools, system optimization, and cybersecurity research.
-
-I also have experience with **TypeScript**, **PHP**, **MySQL**, **Linux**, **Docker**, **Git** and am currently exploring **Cloud Computing & DevOps**.
-
 ```
 ◈  Backend / Cybersecurity
 ◈  São Paulo, Brazil 🇧🇷
