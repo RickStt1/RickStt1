@@ -42,14 +42,14 @@
 
 <div align="center">
 
-### 🛡️ [WinBooster V3](https://github.com/RickStt1/WinBooster-V3)
+###  [WinBooster V3](https://github.com/RickStt1/WinBooster-V3)
 *Windows optimization toolkit with security hardening*
 
 ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=d4af37)
 
 ---
 
-### 🔮 [Project Prometheus](https://github.com/RickStt1/Prometheus)
+###  [Project Prometheus](https://github.com/RickStt1/Prometheus)
 *Adaptive AI Learning Platform for behavioral analysis*
 
 ![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=d4af37)
@@ -60,7 +60,7 @@
 
 ---
 
-### ⚔️ LoL AI Build
+###  LoL AI Build
 *Build recommendation tool — 🚧 in development (working on making it responsive for web and mobile)*
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=d4af37)
