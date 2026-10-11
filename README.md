@@ -72,20 +72,6 @@
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-|   **CYBERSECURITY** |   **CLOUD & DEVOPS** |
-|:---:|:---:|
-| practicing on TryHackMe | Docker fundamentals |
-| Secure coding practices | CI/CD basics |
-| Reading up on network security | Cloud infrastructure concepts |
-
-</div>
-
----
-
 <div align="center">
 
 *"There is no path. Beyond the scope of light, beyond the reach of dark... what could possibly await us? And yet, we seek it, insatiably..."*
