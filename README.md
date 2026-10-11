@@ -1,7 +1,3 @@
-<br/>
-
----
-
 <div align="center">
 
 # **Ricardo Garcia**
@@ -9,10 +5,9 @@
 
 > *"What we know is a drop. What we don't know is an ocean."*
 
-```
-◈  Backend / Cybersecurity
-◈  São Paulo, Brazil 🇧🇷
-```
+◈ Backend / Cybersecurity
+◈ São Paulo, Brazil 🇧🇷
+
 
 </div>
 
@@ -41,15 +36,15 @@
 
 <div align="center">
 
-###  [WinBooster V3](https://github.com/RickStt1/WinBooster-V3)
+### [WinBooster V3](https://github.com/RickStt1/WinBooster-V3)
 *Windows optimization toolkit with security hardening*
 
 ![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnu-bash&logoColor=d4af37)
 
 ---
 
-###  [Project Prometheus](https://github.com/RickStt1/Prometheus)
-*Adaptive AI Learning Platform for behavioral analysis*
+### [Project Prometheus](https://github.com/RickStt1/Prometheus)
+*Adaptive AI learning platform for behavioral analysis*
 
 ![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=d4af37)
 ![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=d4af37)
@@ -59,8 +54,8 @@
 
 ---
 
-###  LoL AI Build
-*Build recommendation tool — 🚧 in development (working on making it responsive for web and mobile)*
+### LoL AI Build
+*Build recommendation tool — 🚧 in development, working on a responsive layout for web and mobile*
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=d4af37)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=d4af37)
@@ -82,6 +77,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-D4AF37?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/ricardogarcia-dev/)
 [![Email](https://img.shields.io/badge/EMAIL-DC143C?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:ricardo.n.garcia.pro@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:https://www.instagram.com/riick.garcia)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/riick.garcia)
 
 </div>
