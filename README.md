@@ -12,7 +12,6 @@
 ```
 ◈  Backend / Cybersecurity
 ◈  São Paulo, Brazil 🇧🇷
-◈  Intern — building this profile as my portfolio
 ```
 
 </div>
@@ -83,5 +82,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-D4AF37?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/ricardogarcia-dev/)
 [![Email](https://img.shields.io/badge/EMAIL-DC143C?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:ricardo.n.garcia.pro@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:https://www.instagram.com/riick.garcia)
 
 </div>
